@@ -1,5 +1,6 @@
 
 // console.log('Hola Mundo');
+alert('Hola desde app.js');
 
 let a = 10, 
     b = 20, 
@@ -16,3 +17,4 @@ let a = 10,
 
 //console.table({a, b, c, d, x});
 
+var miNombre = 'Miguel';
